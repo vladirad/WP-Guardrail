@@ -1,6 +1,6 @@
 # WP Guardrail
 
-A local WordPress diagnostics and safe-testing toolkit for site administrators.
+A WordPress diagnostics and safe-testing toolkit for isolating plugin conflicts, testing updates, and investigating production issues without affecting public traffic.
 
 ---
 
